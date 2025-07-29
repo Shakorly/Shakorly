@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Taiwo Shakiru
 ###  Database Administrator | Oracle AI Fundational Certified | AWS Certified | RNIP Candidate  
 
 *Skills:*  
