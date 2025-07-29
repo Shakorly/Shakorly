@@ -16,6 +16,8 @@
 *Open to RNIP-sponsored roles in Canada!*  
 📧 Email: taiwoshakiru90@gmail.com
 
+
+🔹 *Seeking DBA roles under Canada’s [Rural and Northern Immigration Pilot](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html). Open to free trial periods!*
 <!--
 **Shakorly/Shakorly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
