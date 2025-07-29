@@ -21,6 +21,11 @@ RNIP Candidate
 
 
 🔹 *Seeking DBA roles under Canada’s [Rural and Northern Immigration Pilot](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html). Open to free trial periods!*
+
+## 🇨🇦 Why Hire Me Under RNIP?
+- Ready to relocate to *West Kootenay, Brandon, or other RNIP communities*
+- Willing to start with *2-week remote trial*
+- Certified in *AWS cloud infrastructure* (critical for Canadian businesses)
 <!--
 **Shakorly/Shakorly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
