@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 # 👋 Hi, I'm Taiwo Shakiru
-###  Database Administrator | Oracle AI Fundational Certified | AWS Certified | RNIP Candidate  
+###  Database Administrator | Oracle AI Fundational Certified https://catalog-education.oracle.com/ords/certview/sharebadge?id=E44CD852A779688C0979D6C8C1B9CAE8DEB3C6B67ACDA8A57279EEEA651B8A91 | AWS Certified | RNIP Candidate  
 
 *Skills:*  
 - 🛠 SQL, PostgreSQL, AWS RDS , Python
