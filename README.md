@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there 👋 
+
+# 👋 Hi, I'm [Your Name]  
+###  Database Administrator | Oracle AI Fundational Certified | AWS Certified | RNIP Candidate  
+
+*Skills:*  
+- 🛠 SQL, PostgreSQL, AWS RDS , Python
+- ☁ AWS Cloud Practitioner
+- 📊 Data Analysis (Python)  
+
+*Projects:*  
+- 🔭 I’m currently working on End-to-End Database Administration for "Shakor Smart Tech"
+- [COVID-19 Data Analysis](https://github.com/Shakorly/your-repo)  
+- [AWS RDS Migration Demo](https://github.com/Shakorly/your-repo)  
+
+*Open to RNIP-sponsored roles in Canada!*  
+📧 Email: taiwoshakiru90@gmail.com
 
 <!--
 **Shakorly/Shakorly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
