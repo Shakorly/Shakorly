@@ -10,7 +10,7 @@
 
 *Projects:*  
 - 🔭 I’m currently working on End-to-End Database Administration for "Shakor Smart Tech"
-- [COVID-19 Data Analysis](https://github.com/Shakorly/your-repo)  
+- [COVID-19 Data Analysis](https://github.com/Shakorly/Shakorly-Smart-Tech-DBA--Project)  
 - [AWS RDS Migration Demo](https://github.com/Shakorly/your-repo)  
 
 *Open to RNIP-sponsored roles in Canada!*  
